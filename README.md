@@ -37,3 +37,6 @@ image.save("qr", "PNG")
 
 ## Output
 
+Hope you like it :)
+
+![](https://github.com/Sid672/qrcode/blob/master/qr.png)
