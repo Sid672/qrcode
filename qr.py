@@ -1,5 +1,8 @@
 import qrcode
 
+#format
+# image  = qrcode.make("link")
+
 #example
 image = qrcode.make("https://www.youtube.com/watch?v=kJQP7kiw5Fk")  
 
